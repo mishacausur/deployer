@@ -1,0 +1,3 @@
+docker pull --platform linux/x86_64 <Docker ID>/deployer
+docker pull --platform linux/x86_64 <Docker ID>/deployer:1.0.0 ====> w/ tags
+docker run --platform linux/x86_64 <Docker ID>/deployer
